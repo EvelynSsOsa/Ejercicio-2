@@ -23,8 +23,8 @@ Este es un proyecto sencillo de práctica de análisis de datos con Python 🐍.
 ---
 
 ## 📸 Ejemplo de gráfica
+![Gráfico de calificaciones](Captura.png)
 
-![Gráfico de calificaciones](captura.png)
 
 ---
 
